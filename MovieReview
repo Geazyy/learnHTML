@@ -1,0 +1,28 @@
+<main>
+  <h1>Rise Beyond</h1>
+
+  <img
+    src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png"
+    alt="Movie poster for Rise Beyond"
+  >
+
+  <p>
+    Rise Beyond is an inspiring science fiction adventure about a group of explorers
+    who travel beyond the limits of known space and discover a mysterious world.
+  </p>
+
+  <p>
+    <b>Movie Rating: </b>
+    <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+    (9.2/10)
+  </p>
+
+  <h2>Cast Members</h2>
+
+  <ul>
+    <li><b>James Holloway</b> as Ethan Carter</li>
+    <li><b>Sarah Mitchell</b> as Maya Reynolds</li>
+    <li><b>Daniel Brooks</b> as Marcus Cole</li>
+    <li><b>Emily Carter</b> as Dr. Olivia Hayes</li>
+  </ul>
+</main>
